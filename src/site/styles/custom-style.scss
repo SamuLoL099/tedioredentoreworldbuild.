@@ -3,6 +3,10 @@ body {
     .heading-level {
   display: none !important;
 }
+    h1::before {
+  display: none !important;
+  content: "" !important;
+}
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
