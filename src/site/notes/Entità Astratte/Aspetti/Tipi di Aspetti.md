@@ -16,7 +16,7 @@ I diversi aspetti possono quindi avere elementi/caratteristiche in comune e poss
 
 # Categorie di Elementi
 ## Elementi Passionali/Id
-Gli elementi passionali sono i tratti della mente dell'[[Entità Astratte/Host\|Host]] strettamente legati all'aspetto irrazionale/passionale della mente umana come i vari desideri. Come l'iùId freudiano, gli elementi passionali consistono anche nella parte della mente che mira al soddisfare i desideri primali, ricercando quindi anche il piacere, non curandosi delle conseguenze esterne.
+Gli elementi passionali sono i tratti della mente dell'[[Entità Astratte/Host\|Host]] strettamente legati all'aspetto irrazionale/passionale della mente umana come i vari desideri. Come l'id freudiano, gli elementi passionali consistono anche nella parte della mente che mira al soddisfare i desideri primali, ricercando quindi anche il piacere, non curandosi troppo delle conseguenze esterne.
 ## Elementi Razionali/Ego e Superego
 Gli elementi razionali potrebbero essere suddivisi in due categorie basate sull'Ego e Superego freudiani, tuttavia, essendo, nei contesti specifici che rappresenterò, i principi morali/ideali quasi sempre in concordia con la ragione dell'[[Entità Astratte/Host\|Host]], unificherò le due categorie per facilità.
 

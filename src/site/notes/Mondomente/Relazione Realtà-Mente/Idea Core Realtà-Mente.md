@@ -4,6 +4,9 @@
 
 L'intento è costruire un mondo (Mondomente) dotato di leggi e regole che permettano di farlo funzionare come una traslazione su un piano irreale idealmente metafisico.
 
+## Permissibilità di alcune vaghezze
+Per facilitare la creazione di un Mondomente sarà permissibile (se si vuole effettivamente e concretamente realizzare un mondo dotato di una storia) ignorare, o alterare leggermente certe leggi.
+
 Per traslare la mente nel [[Mondomente/Mondomente\|Mondomente]] realizzando un mondo che rappresenti fedelmente la mente umana è necessario dividere le diverse sfaccettature/i vari lati della mente umana in diversi [[Entità Astratte/Aspetti/Aspetti\|Aspetti]]. 
 Gli aspetti possono rappresentare ogni tipo di facoltà o fenomeni mentali come le passioni, la ragione, la fede, l'ego, l'empatia, ecc.
 
