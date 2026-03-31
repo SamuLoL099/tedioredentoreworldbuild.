@@ -24,5 +24,26 @@ Gli elementi razionali costituiscono quindi le facoltà mentali dedicate al rego
 
 </div></div>
  
+# Ambiguità date da un ipotetico Aspetto-Ragione
+È necessario durante lo sviluppo concreto del Mondomente astenersi dal designare ad un singolo aspetto o gruppo ristretto di aspetti l'elemento mentale che è la facolta della ragione intesa come abilità di distinguere cosa sia giusto o sbagliato.
+Questo perché le persone possono essere indotte, da impulsi e tentazioni, a tentare di giustificare momentaneamente un atto che poi finiscono per ritenere sbagliato. Tale meccanismo potrebbe risultare molto difficile da rispecchiare in un mondo basato su conflitti armati tra le "forze della ragione" e le "forze dei desideri/del male/del peccato" se si prevede al suo interno un'aspetto consistente nella facolta della ragione con in mano un notevole potere decisionale sull'[[Entità Astratte/Host\|Host]]. L'esistenza di tale aspetto prevederebbe una sorta di costante inganno da parte del peccato/male che dovrebbe magicamente spingere la ragione ad entrare ed uscire ripetutamente dal conflitto in modo da spiegare la natura dei desideri (poiché questi tendono ad essere irrazionali).
 
- Gli 
+È proprio per tali meccaniche mentali che conviene esser pronti ad alterare o ignorare certe regole in modo da rendere il mondo immaginato più apprezzabile e facile da concepire a discapito di un pò di precisione, come incoraggiato in: 
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/mondomente/relazione-realta-mente/idea-core-realta-mente/#permissibilita-di-alcune-vaghezze" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Permissibilità di alcune "vaghezze"
+Per facilitare la creazione di un Mondomente sarà permissibile (se si vuole effettivamente e concretamente realizzare un mondo dotato di una storia) ignorare, o alterare leggermente certe leggi.
+Questo perché l'obbiettivo di questi documenti è dare una serie di linee guida astratte sul quale basarsi per formulare il proprio sistema personale.
+
+
+</div></div>
+
+
+# Esempi di Aspetti Passionali/Id
+
+
+- Lussuria: la parte della mente dell'[[Entità Astratte/Host\|Host]] che opera per la realizzazione dei suoi desideri carnali, 

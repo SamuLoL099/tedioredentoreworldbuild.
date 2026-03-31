@@ -25,7 +25,6 @@ Tuttavia, le entità non devono perforza far parte di un aspetto.
 
 L'insieme di tutte le entità concrete compone l'interezza della mente umana dell'host, le interazioni tra queste costituiscono quindi l'interagire/il reciproco opporsi/ecc dei diversi aspetti mentali all'interno di quest'ultima.
 
-Un aspetto può esistere come sottoinsieme di popolazione (entità) nel Mondomente con a capo una figura leader che incarna l'aspetto in se (il leader può essere quindi una delle [[Mondomente/Entità Concrete/Entità Personali/Entità Personali\|Entità Personali]]. Un aspetto può quindi esistere come un entità leader e l'estensione di questa, ovvero il popolo comandato.
+Un aspetto può esistere come sottoinsieme di popolazione (entità) nel Mondomente con a capo una figura leader che incarna l'aspetto in se (il leader può essere quindi una delle [[Mondomente/Entità Concrete/Entità Personali/Entità Personali\|Entità Personali]]. Un aspetto può quindi esistere come un entità leader e l'estensione di questa, come per esempio il popolo comandato.
 ## Interazione tra Entità-Aspetti
-L'influenza di un certo aspetto (sottogruppo di entità) sulla mente e quindi sulla volont dell'host è data dalle sue azioni all'interno del [[Mondomente/Mondomente\|Mondomente]], vedi documento: [[Mondomente/Dipendenza degli eventi.canvas\|Dipendenza degli eventi.canvas]]. Un aspetto è tuttavia debole se l'estensione di questo è anch'essa debole. 
-Questo perchè una limitata estensione permetterebbe ad altri aspetti di influire maggiormente sulla mente dell'host. 
+L'influenza di un certo aspetto (sottogruppo di entità) sulla mente e quindi sulla volont dell'host è data dalle sue azioni all'interno del [[Mondomente/Mondomente\|Mondomente]]. Un aspetto è tuttavia debole se l'estensione di questo è anch'essa debole. Questo perchè una limitata estensione permetterebbe ad altri aspetti di influire maggiormente sulla mente dell'host. 
