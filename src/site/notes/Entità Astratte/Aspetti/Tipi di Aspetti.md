@@ -9,7 +9,7 @@ In quanto composti, gli aspetti non esplicano in maniera totale gli elementi men
 
 I diversi aspetti possono quindi avere elementi/caratteristiche in comune e possono essere categorizzati in base agli elementi mentali dominanti secondo un modello simile a quello degli elementi stessi.
 
-Da: [[Entità Astratte/Aspetti/Elementi Mentali#Categorie di Elementi\|Elementi Mentali#Categorie di Elementi]] 
+>>
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/entita-astratte/aspetti/elementi-mentali/#categorie-di-elementi" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -30,7 +30,7 @@ Questo perché le persone possono essere indotte, da impulsi e tentazioni, a ten
 
 È proprio per tali meccaniche mentali che conviene esser pronti ad alterare o ignorare certe regole in modo da rendere il mondo immaginato più apprezzabile e facile da concepire a discapito di un pò di precisione, come incoraggiato in: 
 
-
+>>
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/mondomente/relazione-realta-mente/idea-core-realta-mente/#permissibilita-di-alcune-vaghezze" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
