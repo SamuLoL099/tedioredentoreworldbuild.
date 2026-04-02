@@ -42,7 +42,6 @@ Questo perché l'obbiettivo di questi documenti è dare una serie di linee guida
 
 </div></div>
 
-
 # Esempi di Aspetti Passionali/Id
 
 

@@ -22,7 +22,6 @@ Data la natura della mente umana e la pluralità degli aspetti si stabilisce chi
 ## Relazioni tra Aspetti
 Possono esistere aspetti in relazioni di concordia o discordia (complete o parziali) tra loro. 
 Gli aspetti possono tentare di sopprimersi a vicenda: discordia completa; possono concordare sotto certi versi ma discordare sotto altri: discordia parziale; possono essere in piena concordia e rafforzarsi a vicenda: concordia totale; eccetera.
-
 # Aspetti come Entità Concrete
 All'interno del [[Mondomente/Mondomente\|Mondomente]] sono le [[Mondomente/Entità Concrete/Entità Concrete\|Entità Concrete]] ad agire come Aspetti della mente umana.
 L'insieme totale delle entità è suddiviso in sottoinsiemi o fazioni facenti parte di aspetti mentali diversi.
