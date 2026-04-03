@@ -24,8 +24,11 @@ Gli elementi razionali costituiscono quindi le facoltà mentali dedicate al rego
 
 </div></div>
  
+
+Essendo però fusioni di diversi elementi, classificherò gli aspetti definendo 2 estremi su base delle 2 tipologie di elementi mentali.
+Gli aspetti saranno quindi vicini ad uno o l'altro estremo (oppure anche in posizione intermedia) in base alle loro caratteristiche.
 # Ambiguità date da un ipotetico Aspetto-Ragione
-È necessario durante lo sviluppo concreto del Mondomente astenersi dal designare ad un singolo aspetto o gruppo ristretto di aspetti l'elemento mentale che è la facolta della ragione intesa come abilità di distinguere cosa sia giusto o sbagliato.
+È necessario durante lo sviluppo concreto del Mondomente astenersi dal designare ad un singolo aspetto o gruppo ristretto e statico di aspetti l'elemento mentale che è la facolta della ragione intesa come abilità di distinguere cosa sia giusto o sbagliato.
 Questo perché le persone possono essere indotte, da impulsi e tentazioni, a tentare di giustificare momentaneamente un atto che poi finiscono per ritenere sbagliato. Tale meccanismo potrebbe risultare molto difficile da rispecchiare in un mondo basato su conflitti armati tra le "forze della ragione" e le "forze dei desideri/del male/del peccato" se si prevede al suo interno un'aspetto consistente nella facolta della ragione con in mano un notevole potere decisionale sull'[[Entità Astratte/Host\|Host]]. L'esistenza di tale aspetto prevederebbe una sorta di costante inganno da parte del peccato/male che dovrebbe magicamente spingere la ragione ad entrare ed uscire ripetutamente dal conflitto in modo da spiegare la natura dei desideri (poiché questi tendono ad essere irrazionali).
 
 È proprio per tali meccaniche mentali che conviene esser pronti ad alterare o ignorare certe regole in modo da rendere il mondo immaginato più apprezzabile e facile da concepire a discapito di un pò di precisione, come incoraggiato in: 
@@ -42,7 +45,8 @@ Questo perché l'obbiettivo di questi documenti è dare una serie di linee guida
 
 </div></div>
 
-# Esempi di Aspetti Passionali/Id
 
+# Aspetti Paradigmici/Ego/Superego
 
-- Lussuria: la parte della mente dell'[[Entità Astratte/Host\|Host]] che opera per la realizzazione dei suoi desideri carnali, 
+# Aspetti Passionali/Id
+L'estremo passionale rispecchia la parte della mente dell'[[Entità Astratte/Host\|Host]] orientata verso il soddisfacimento dei desideri primitivi

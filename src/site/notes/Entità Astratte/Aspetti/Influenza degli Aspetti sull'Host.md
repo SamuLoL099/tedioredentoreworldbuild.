@@ -41,10 +41,6 @@ In questo documento andrò nel dettaglio della materia.
 
 # Potere degli Aspetti
 Come stabilito, [[Entità Astratte/Aspetti/Aspetti\|Aspetti]] possono scontrarsi tra di loro ed influenzare il potere decisionale dell'[[Entità Astratte/Host\|Host]], il potere di questi è la loro abilità/capacità/efficienza nel sovrastare altri aspetti ed influenzare le decisioni.
-
-## Influenza tra Aspetti
-Gli aspetti
-
 ## Dipendenza del potere da fattori esterni
 L'effetto che un certo aspetto può avere sulla volontà dell'Host e la capacità di prevalere su altri dipendono anche dagli avvenimenti del mondo reale.
 
@@ -56,3 +52,4 @@ Il potere derivato da fattori esterni può inoltre essere molto vacillante oppur
 Gli aspetti tenteranno spesso di muovere l'Host in modo da riuscire ad assicurarsi anche un controllo futuro (un esempio di aspetti con questo comportamento sono quelli passionali, che spesso generano dipendenze).
 
 È anche in base ad influenze esterne e non solo per via di cambiamenti interni e scontri tra [[Entità Astratte/Aspetti/Aspetti\|Aspetti]] che ne deriva la loro dinamicità, concetto spiegato in: [[Entità Astratte/Aspetti/Mutamento degli Aspetti\|Mutamento degli Aspetti]].
+

@@ -9,7 +9,6 @@ Gli aspetti, essendo frutto della traslazione della mente umana e reale dell'hos
 il loro rispecchiamento nel Mondomente non è quindi regolato in base al funzionamento a livello chimico (quindi strettamente fisico) delle connessioni neurologiche tra le diverse parti del cervello, bensì, lo è in base all'esperienza soggettiva derivata, ovvero l'esperienza mentale (che pare risulti anche tra l'altro essere in grado di alterare in qualche modo il funzionamento fisico del cervello ma lasciamo stare le digressioni).
 
 - Esempio: L'ipotetico sistema del [[Mondomente/Mondomente\|Mondomente]] basato su interazioni tra entità fisiche sostanzialmente personali per rappresentare il funzionamento della mente umana non è per niente simile a ciò che risulta essere il vero funzionamento del cervello fisico. Tuttavia, è l'esperienza soggettiva derivata da quest'ultimo che, esistendo tecnicamente già da sé su un piano metafisico dal quale "estrapoliamo" il concetto di aspetti, potrebbe esser traslata in ciò che è il [[Mondomente/Mondomente\|Mondomente]].
-
 # Influenza degli Aspetti sulla mente
 I vari aspetti della mente umana possono avere effetto su ciò che potrebbe esser definito come la "volontà" dell'[[Entità Astratte/Host\|Host]]. La volontà costituisce in essenza le scelte riguardanti le azioni che l'host intraprende nel mondo reale. 
 
