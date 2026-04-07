@@ -10,7 +10,7 @@ L'[[Entità Astratte/Host\|Host]] è in grado di autoidentificarsi in uno o più
 
 - Esempio: una persona può identificare se stessa nei propri paradigmi come può ripudiare la propria lussuria dichiarandola un vizio da ridimensionare/assoggettare.
 
-Tuttavia, l'autoidentificazione non è fissata su un certo aspetto/gruppo di aspetti e può anche cambiare in base all'interazione tra questi.
+Tuttavia, l'autoidentificazione non è fissata su un certo aspetto/gruppo di aspetti e può anche cambiare in base all'interazione tra questi. Quando un certo aspetto è "ancorato" 
 
 - Esempio: se l'[[Entità Astratte/Host\|Host]] è fortemente tentato, l'aspetto del desiderio può "soverchiare" quello di un qualsiasi aspetto-paradigma morale opposto ad esso, rispecchiando l'intenzione dell'Host di indugiare in questo.
 ## La Ragione
