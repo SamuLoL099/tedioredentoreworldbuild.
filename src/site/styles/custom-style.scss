@@ -29,7 +29,7 @@ body {
 }
 
 body {
-    --file-line-width: 900px; /* Adjust this value to your preferred width */
+    --file-line-width: 200px; /* Adjust this value to your preferred width */
 }
 .markdown-source-view.mod-cm6.readable-line-width .cm-content {
     max-width: var(--file-line-width);
