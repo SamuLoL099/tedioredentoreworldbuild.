@@ -27,6 +27,11 @@ body {
     //   color: black;
     //  }
 }
-.markdown-source-view.mod-cm6.readable-line-width .cm-content {
-    max-width: var(200px);
+
+.markdown-preview-view p,
+.markdown-source-view .cm-content,
+.markdown-reading-view {
+  max-width: 75ch;
+  margin-left: auto;
+  margin-right: auto;
 }
