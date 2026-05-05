@@ -6,11 +6,7 @@ L'[[Mondomente/Piano Astratto/Host\|Host]], essendo un essere umano, è una crea
 Ed è anche quindi in grado di riconoscere il fatto che egli pensa come è anche in grado di riconoscere e differenziare i propri pensieri nonché i contenuti della propria mente.
 Partendo dal concetto di appercezione posso definire alcuni modi per rispecchiare tale meccanismo mentale.
 ## Autoidentificazione dell'Host
-L'[[Mondomente/Piano Astratto/Host\|Host]] è in grado di autoidentificarsi in uno o più [[Mondomente/Piano Astratto/Aspetti/Aspetti\|Aspetti]] nella propria mente, compiendo anche il processo inverso di "ripudiarne" altri, dichiarandoli come caratteristiche indesiderate di sé.
-
-- Esempio: una persona può identificare se stessa nei propri paradigmi come può ripudiare la propria lussuria dichiarandola un vizio da ridimensionare/assoggettare.
-
-Attraverso que
+Benché la totalità della mente dell'[[Mondomente/Piano Astratto/Host\|Host]] sia equivalente all'insieme completo dei suoi aspetti mentali con le loro varie interazioni, 
 ### La Ragione presente nell'Ego/Superego
 Poiché un'[[Mondomente/Piano Astratto/Host\|Host]] identifica comunemente se stesso in ciò che egli ritiene esser giusto, quindi in aspetti facenti parte della categoria di natura razionale dell'Ego e solo indirettamente anche negli aspetti passionali, attraverso un'approvazione di quest'ultimi dai primi o un'ipotetica "forzatura" da parte degli ultimi sulle barriere dei primi. 
 Uno "sfondamento" della ragione da parte degli aspetti passionali può verificarsi in 2 modi principali (o in vari ibridi tra questi):

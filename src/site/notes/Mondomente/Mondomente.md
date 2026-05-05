@@ -4,13 +4,12 @@
 
 Il Mondomente è l'universo allegorico/irreale raggiungibile traslando la mente umana e reale dell'[[Mondomente/Piano Astratto/Host\|Host]] su un nuovo e particolare piano metafisico e questi documenti devono fungere da guida attraverso la definizione di certe "leggi" che permettano di convertire una mente umana in un Mondomente.
 
-# Dimensione astratta e concreta
+# Piano Astratto e Concreto
 Il Mondomente è suddiviso in due "piani", uno astratto ed infiniti ipotetici piani concreti.
 
-Il piano astratto non è altro che la struttura generale che fa da modello per la mente umana, partendo da questo piano sarebbe ipoteticamente possibile sviluppare infiniti mondi concreti strutturati in base ad esso. Fanno parte del piano astratto gli [[Mondomente/Piano Astratto/Aspetti/Aspetti\|Aspetti]], l'insieme di leggi che definisce il loro funzionamento e le loro interazioni, il concetto dell'[[Mondomente/Piano Astratto/Host\|Host]], gli [[Mondomente/Piano Astratto/Aspetti/Elementi Mentali\|Elementi Mentali]], eccetera...
+Il piano astratto non è altro che la struttura generale che fa da modello per la mente umana, partendo da questo piano sarebbe ipoteticamente possibile sviluppare infiniti mondi concreti strutturati in base ad esso. Fanno parte del piano astratto gli [[Mondomente/Piano Astratto/Aspetti/Aspetti\|Aspetti]], l'insieme di leggi che definisce il loro funzionamento e le loro interazioni, il concetto dell'[[Mondomente/Piano Astratto/Host\|Host]] eccetera...
 
-Il piano concreto invece è definito da leggi differenti strutturate in base a quelle del piano astratto.
-In questi documenti andrò a definire un singolo Mondomente concreto.
+Il piano concreto è a sua volta suddiviso in altre due categorie, ovvero in piano "preconcreto" o "intermedio" ed in piano "concreto effettivo". Nel primo sono definite le singole istanze di concetti astratti come gli aspetti, mentre nel secondo queste vengono "concretizzate" e tradotte in [[Mondomente/Piano Concreto/Piano Concreto Effettivo/Entità Concrete/Entità Concrete\|Entità Concrete]].
 
 ## Permissibilità di alcune "vaghezze"
 Per definire un mondo concreto verosimile sarà avvolte necessario ignorare o alterare certi particolari del set di leggi astratte per evitare di realizzare una realtà fin troppo "rigida" o in certe situazioni logicamente inverosimile. 
@@ -29,7 +28,7 @@ Per traslare la mente nel Mondomente realizzando un mondo che rappresenti fedelm
 Gli aspetti possono rappresentare ogni tipo di facoltà o fenomeni mentali come le passioni, la ragione, la fede, l'ego, l'empatia, ecc.
 
 Come detto in [[Mondomente/Piano Astratto/Host#Ignoranza dell'Host\|Host#Ignoranza dell'Host]] la consapevolezza è unidirezionale e gli interessi degli abitanti del Mondomente concreto saranno anche legati agli avvenimenti del mondo reale.
-Le [[Mondomente/Piano Concreto/Entità Concrete\|Entità Concrete]] infatti sono consapevoli dell'esistenza dell'host.
+Le [[Mondomente/Piano Concreto/Piano Concreto Effettivo/Entità Concrete/Entità Concrete\|Entità Concrete]] infatti sono consapevoli dell'esistenza dell'host.
 
 
 [[Roba Extra/Dizionario Termini Particolari\|Dizionario Termini Particolari]].
