@@ -15,6 +15,12 @@ body {
   display: none !important;
   content: "" !important;
 }
+
+--file-line-width: 900px; /* Adjust this value to your preferred width */
+}
+.markdown-source-view.mod-cm6.readable-line-width .cm-content {
+    max-width: var(--file-line-width);
+}
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
