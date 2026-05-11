@@ -19,8 +19,8 @@ Come approfondito in [[Mondomente/Piano Astratto/Aspetti/Interazioni tra Aspetti
 # Influenza degli Aspetti sulla mente
 I vari aspetti della mente umana possono avere effetto su ciò che potrebbe esser definito come la "volontà" dell'[[Mondomente/Piano Astratto/Host\|Host]]. La volontà costituisce in essenza le scelte riguardanti le azioni che l'host intraprende nel mondo reale. 
 
-I vari aspetti possono quindi influire sulle azioni compiute dall'host nel mondo reale, un aspetto può quindi ridirezionarle leggermente o dirigerle completamente in base alla situazione mentale.
-Due aspetti possono quindi competere per il "potere decisionale" se i loro obbiettivi d'orientamento della volontà siano in contrasto.
+I vari aspetti possono quindi influire sulle azioni compiute dall'host nel mondo reale, un singolo aspetto o un gruppo di questi può quindi ridirezionarle leggermente o dirigerle completamente in base alla situazione mentale.
+Due o più aspetti possono quindi competere per il "potere decisionale" se i loro obbiettivi d'orientamento della volontà siano in contrasto.
 
 - Esempio: Un aspetto con l'obbiettivo di far digiunare l'[[Mondomente/Piano Astratto/Host\|Host]] può entrare in contrasto con un aspetto che vuole farlo mangiare.
 

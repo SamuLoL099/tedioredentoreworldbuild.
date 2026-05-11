@@ -10,10 +10,10 @@ Benché la totalità della mente dell'[[Mondomente/Piano Astratto/Host\|Host]] s
 ### La Ragione presente nell'Ego/Superego
 Poiché un'[[Mondomente/Piano Astratto/Host\|Host]] identifica comunemente se stesso in ciò che egli ritiene esser giusto, quindi in aspetti facenti parte della categoria di natura razionale dell'Ego e solo indirettamente anche negli aspetti passionali, attraverso un'approvazione di quest'ultimi dai primi o un'ipotetica "forzatura" da parte degli ultimi sulle barriere dei primi. 
 Uno "sfondamento" della ragione da parte degli aspetti passionali può verificarsi in 2 modi principali (o in vari ibridi tra questi):
-
-- Sopraffazione pura: ovvero quando l'impulso sovrasta completamente la ragione, spingendo l'Host a compiere azioni ritenute consapevolmente come sbagliate.
-
-- Momentanea autogiustificazione: ovvero quando l'Host, mosso dalle passioni, tenta di utilizzare la propria (alterata) facoltà della ragione per motivare "razionalmente" le proprie azioni e "giustificarle", portando anche ad un alterazione nel funzionamento della sua autoidentificazione.
+#### Sopraffazione pura
+ovvero quando l'impulso sovrasta completamente la ragione, spingendo l'Host a compiere azioni ritenute consapevolmente come sbagliate.
+#### Momentanea autogiustificazione 
+ovvero quando l'Host, mosso dalle passioni, tenta di utilizzare la propria (alterata) facoltà della ragione per motivare "razionalmente" le proprie azioni e "giustificarle", portando anche ad un alterazione nel funzionamento della sua autoidentificazione.
 ### Momentanee alterazioni identificative
 L'autoidentificazione (come già precisato) non è fissata su un certo aspetto/gruppo di aspetti e può anche cambiare in base all'interazione tra questi.
 

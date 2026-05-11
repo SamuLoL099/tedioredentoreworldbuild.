@@ -19,10 +19,11 @@ Per questo motivo premetto che intendo di includere alcune vaghezze o buchi nel 
 La mente dell'host ed il Mondomente dovrebbero, ontologicamente parlando, essere la stessa cosa reinterpretata differentemente/vista sotto altre lenti. Nonostante questa supposta equivalenza, occorre distinguere ciò che verrà comunemente definito in questi documenti come "reale" (la mente dell'[[Mondomente/Piano Astratto/Host\|Host]]) e la sua controparte da me definita (il Mondomente).
 
 ## Rapporto tra Mente e Mondomente
-In essenza, come già stabilito, i fatti del Mondomente non sono altro che il rispecchiamento/la traduzione di avvenimenti reali in un universo irreale equivalente. Stabilire un rapporto monodirezionale tra questi andrebbe a violare la definizione stessa di Mondomente (specificatamente la parte dell'equivalenza ontologica). Sarebbe infatti scorretto dire che i fatti della mente reale alterino/definiscano quelli del Mondomente, o viceversa, poiché i primi sono completamente interscambiabili, in quanto equivalenti, ai primi.
+In essenza, come già stabilito, i fatti del Mondomente non sono altro che il rispecchiamento/la traduzione di avvenimenti reali in un universo irreale equivalente. Stabilire un rapporto monodirezionale tra questi andrebbe a violare la definizione stessa di Mondomente (specificatamente la parte dell'equivalenza ontologica). Sarebbe infatti scorretto dire che i fatti della mente reale alterino/definiscano direttamente quelli del Mondomente, o viceversa, poiché i primi sono completamente interscambiabili, in quanto equivalenti, ai primi.
 
 Mente e Mondomente sono entrambi in rapporto pluridirezionale con il mondo fisico abitato dal corpo dell'[[Mondomente/Piano Astratto/Host\|Host]], ovvero, la mente "influenza" il mondo fisico attraverso il corpo mentre l'esperienza dei sensi apporta cambiamenti alla prima.
 Le esperienze sensibili si traducono in pensieri/idee/"oggetti mentali" e l'[[Mondomente/Piano Astratto/Host\|Host]] agisce nel mondo fisico secondo la propria volontà direzionata mentalmente.
+
 ## Sistema degli Aspetti
 Per traslare la mente nel Mondomente realizzando un mondo che rappresenti fedelmente la mente umana è necessario dividere le diverse sfaccettature/i vari lati della mente umana in diversi [[Mondomente/Piano Astratto/Aspetti/Aspetti\|Aspetti]]. 
 Gli aspetti possono rappresentare ogni tipo di facoltà o fenomeni mentali come le passioni, la ragione, la fede, l'ego, l'empatia, ecc.
