@@ -55,4 +55,4 @@ Gli aspetti tenteranno spesso di muovere l'Host nelle sue azioni nel mondo fisic
 ### Differenze di reazione tra menti a medesimi input esterni
 I cambiamenti nel quantitativo di potere decisionale detenuto dagli [[Mondomente/Piano Astratto/Aspetti/Aspetti\|Aspetti]] che certe esperienze sensibili possono apportare alla mente dell'[[Mondomente/Piano Astratto/Host\|Host]] dipendono a loro volta dallo status mentale di quest'ultimo. Essendo infatti ogni mente diversa, il medesimo segnale dal mondo esterno provoca reazioni differenti in menti differenti in base alle abitudini, predisposizioni, usanze, eccetera di una o dell'altra.
 
-Percui, tali reazioni su certi aspetti saranno spesso proporzionali al quantitativo tipico di potere decisionale detenuto da questi.
+Percui, tali reazioni su certi aspetti saranno spesso proporzionali al quantitativo tipico di potere decisionale detenuto da questi. 
