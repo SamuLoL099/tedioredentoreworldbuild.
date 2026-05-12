@@ -3,7 +3,7 @@
 ---
 
 Gli Aspetti sono il rispecchiamento nel Mondomente degli amalgamati di passioni e dei diversi sistemi, impulsi e facoltà che compongono la mente umana conscia dell'[[Mondomente/Piano Astratto/Host\|Host]].
-Esistono diversi [[Mondomente/Piano Astratto/Aspetti/Tipi di Aspetti\|Tipi di Aspetti]]
+Esistono diversi [[Mondomente/Piano Astratto/Aspetti/Tipi di Aspetti\|Tipi di Aspetti]].
 # Metafisicità degli Aspetti
 Gli aspetti, essendo frutto della traslazione della mente umana e reale dell'host, costituiscono una rappresentazione metafisica di questa:
 il loro rispecchiamento nel Mondomente non è quindi regolato in base al funzionamento a livello chimico (quindi strettamente fisico) delle connessioni neurologiche tra le diverse parti del cervello, bensì, lo è in base all'esperienza soggettiva derivata, ovvero l'esperienza mentale astratta (che pare risulti anche tra l'altro essere in grado di alterare in qualche modo il funzionamento fisico del cervello ma lasciamo stare le digressioni).
